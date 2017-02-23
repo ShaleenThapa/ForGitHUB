@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E47298D3-89D9-4341-A1FD-FB47AEFF401B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E7EAF5CA-AFEF-485D-A2A9-F2CAFCADC067}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ForGitHUB", "src\ForGitHUB\ForGitHUB.xproj", "{8366940B-845D-4039-994B-205E55B3AF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8366940B-845D-4039-994B-205E55B3AF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8366940B-845D-4039-994B-205E55B3AF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8366940B-845D-4039-994B-205E55B3AF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8366940B-845D-4039-994B-205E55B3AF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8366940B-845D-4039-994B-205E55B3AF15} = {E47298D3-89D9-4341-A1FD-FB47AEFF401B}
+	EndGlobalSection
+EndGlobal
