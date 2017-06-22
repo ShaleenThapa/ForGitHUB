@@ -2,3 +2,4 @@ This is the test file
 changes
 more changes
 test
+test file
